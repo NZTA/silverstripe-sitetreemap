@@ -1,5 +1,5 @@
 {
-    "name": "innoweb/silverstripe-sitemap",
+    "name": "nzta/silverstripe-sitetreemap",
     "description": "Adds a page type that automatically builds a sitemap from the view tree. Works with Multisites module.",
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
