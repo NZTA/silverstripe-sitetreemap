@@ -21,7 +21,7 @@ Note: this version is compatible with SilverStripe 4. For SilverStripe 3, please
 
 Install the module using composer:
 ```
-composer require innoweb/silverstripe-sitemap dev-master
+composer require nzta/silverstripe-sitetreemap dev-master
 ```
 or download or git clone the module into a ‘sitemap’ directory in your webroot.
 
