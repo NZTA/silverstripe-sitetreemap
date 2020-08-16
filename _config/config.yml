@@ -1,0 +1,6 @@
+---
+Name: innowebsitemap
+---
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - Innoweb\Sitemap\Extensions\SitemapSiteTreeExtension
