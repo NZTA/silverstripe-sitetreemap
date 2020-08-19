@@ -1,6 +1,6 @@
 <?php
 
-namespace Innoweb\Sitemap\Pages;
+namespace NZTA\Sitemap\Pages;
 
 use SilverStripe\CMS\Model\SiteTree;
 
