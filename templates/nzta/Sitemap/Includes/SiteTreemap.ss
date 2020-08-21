@@ -1,4 +1,3 @@
-test site map template
 <% cached 'sitemap', $SitemapCacheKey %>
     <% if $Top.SitemapRootItems %>
 		<ul class="sitemap">
