@@ -1,8 +1,8 @@
 <?php
 
-namespace Innoweb\Sitemap\Extensions;
+namespace NZTA\Sitemap\Extensions;
 
-use Innoweb\Sitemap\Pages\SiteTreemapPage;
+use NZTA\Sitemap\Pages\SiteTreemapPage;
 use SilverStripe\CMS\Model\SiteTree;
 use SilverStripe\CMS\Model\SiteTreeExtension;
 use SilverStripe\Forms\CheckboxField;

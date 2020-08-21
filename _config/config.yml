@@ -1,6 +1,6 @@
 ---
-Name: innowebsitemap
+Name: nztasitetreemap
 ---
 SilverStripe\CMS\Model\SiteTree:
   extensions:
-    - Innoweb\Sitemap\Extensions\SitemapSiteTreeExtension
+    - NZTA\Sitemap\Extensions\SitemapSiteTreeExtension

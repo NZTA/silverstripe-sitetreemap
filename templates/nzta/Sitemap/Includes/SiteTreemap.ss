@@ -1,3 +1,4 @@
+test site map template
 <% cached 'sitemap', $SitemapCacheKey %>
     <% if $Top.SitemapRootItems %>
 		<ul class="sitemap">
@@ -5,7 +6,7 @@
 		        <li class="sitemap-item">
 		        	<a href="$Link"><% if $MenuTitle %>$MenuTitle<% else %>$Title<% end_if %></a>
 		            <% if $SitemapChildren %>
-		                <% include Innoweb/Sitemap/SitemapRecursive Parent=$SitemapChildren %>
+		                <% include nzta/Sitemap/SiteTreemapRecursive Parent=$SitemapChildren %>
 		            <% end_if %>
 		        </li>
 		    <% end_loop %>
