@@ -11,9 +11,6 @@ class SiteTreemapPage extends \Page {
     private static $description = 'Displays a sitemap with all pages marked for display in the sitemap.';
 
     private static $table_name = 'SiteTreemapPage';
-
-    private static $icon  = 'innoweb/silverstripe-sitemap: client/images/treeicons/sitemap.gif';
-	
 	private static $excluded_pagetypes = [];
 
     private static $defaults = [

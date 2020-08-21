@@ -1,5 +1,5 @@
 ---
-Name: nztasitemap
+Name: nztasitetreemap
 ---
 SilverStripe\CMS\Model\SiteTree:
   extensions:
