@@ -1,4 +1,4 @@
-<% cached 'sitemap', $SitemapCacheKey %>
+
     <% if $Top.SitemapRootItems %>
 		<ul class="sitemap">
 		    <% loop $Top.SitemapRootItems %>
@@ -11,4 +11,3 @@
 		    <% end_loop %>
 		</ul>
     <% end_if %>
-<% end_cached %>
